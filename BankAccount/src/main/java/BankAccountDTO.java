@@ -15,7 +15,6 @@ public class BankAccountDTO {
     }
 
     public double getBalance() {
-
         return balance;
     }
 
